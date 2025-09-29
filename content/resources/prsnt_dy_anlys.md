@@ -5,6 +5,8 @@ description: This resources contains the project report on persistence of civic 
 file: /courses/4-175-case-studies-in-city-form-fall-2005/0ef8782e77dc92fe9c94723714e1e43c_prsnt_dy_anlys.pdf
 file_size: 545929
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resources contains the project report on common ground in amst
 file: /courses/4-175-case-studies-in-city-form-fall-2005/c717e1e324699c64fb994088e68a58a9_chapter6.pdf
 file_size: 921773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

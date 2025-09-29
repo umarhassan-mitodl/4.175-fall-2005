@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains preface, list of readings associated with the course
   material and shedule.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Contents
 
 1\. Peterson, Steven. "Urban Design Tactics. Roma Interrota." _Architectural Design Profile_ 49, no. 3-4 (1979).
 
-{{% resource_link "4562e96f-c1d3-40bd-98c9-54abdb185878" "![Buy at MIT Press](/images/mp_logo.gif)" %}} 2. Colquhoun, Alan. "Twentieth-Century Concepts of Urban Space." In {{% resource_link "4562e96f-c1d3-40bd-98c9-54abdb185878" "_Modernity and the Classical Tradition: Architectural Essays, 1980-1987_" %}}. Cambridge, MA: MIT Press, 1989, pp. 231. ISBN: 0262031388.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/modernity-and-classical-tradition) 2. Colquhoun, Alan. "Twentieth-Century Concepts of Urban Space." In [_Modernity and the Classical Tradition: Architectural Essays, 1980-1987_](https://mitpress.mit.edu/books/modernity-and-classical-tradition). Cambridge, MA: MIT Press, 1989, pp. 231. ISBN: 0262031388.
 
-{{% resource_link "98b331f7-b6d8-4a26-b567-bd5ebc7ff8fd" "![Buy at MIT Press](/images/mp_logo.gif)" %}} 3. Lotz, Wolfgang. "Sixteenth Century Italian Squares." In {{% resource_link "98b331f7-b6d8-4a26-b567-bd5ebc7ff8fd" "_Studies in Italian Renaissance Architecture_" %}}. Edited by J. S. Ackerman, W. Chandler Kirwin, and H. A. Millon. Cambridge, MA: MIT Press, 1977, pp. 74-116. ISBN: 0262120739.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/studies-italian-renaissance-architecture) 3. Lotz, Wolfgang. "Sixteenth Century Italian Squares." In [_Studies in Italian Renaissance Architecture_](https://mitpress.mit.edu/books/studies-italian-renaissance-architecture). Edited by J. S. Ackerman, W. Chandler Kirwin, and H. A. Millon. Cambridge, MA: MIT Press, 1977, pp. 74-116. ISBN: 0262120739.
 
 ### The Traditional City
 
@@ -57,7 +59,7 @@ Contents
 
 ### Urban Form and Culture
 
-{{% resource_link "15cc94b2-654d-4c3c-a10b-d7a8c137ad6b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} 9. Schorske, Carl E. "The idea of the city in European thought: Voltaire to Spengler." In {{% resource_link "15cc94b2-654d-4c3c-a10b-d7a8c137ad6b" "_The Historian and the City_" %}}. Edited by Handlin and Burchard. Cambridge, MA: MIT Press, 1963. ISBN: 0262580063.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/historian-and-city) 9. Schorske, Carl E. "The idea of the city in European thought: Voltaire to Spengler." In [_The Historian and the City_](https://mitpress.mit.edu/books/historian-and-city). Edited by Handlin and Burchard. Cambridge, MA: MIT Press, 1963. ISBN: 0262580063.
 
 10\. ———. "Museum in contested space: the sword, the scepter and the Ring." In _Thinking With History: Explorations in the Passage to Modernism_. Princeton, NJ: Princeton University Press, 1998, pp. 105-125. ISBN: 0691059772.
 

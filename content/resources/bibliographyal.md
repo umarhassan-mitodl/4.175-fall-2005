@@ -4,6 +4,8 @@ description: This resource material contains the list of readings.
 file: /courses/4-175-case-studies-in-city-form-fall-2005/810880ec862a1d9f36a8fe7c0840389d_bibliographyal.pdf
 file_size: 182960
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

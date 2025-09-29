@@ -4,6 +4,8 @@ description: This resources contains the project report on civic structure in is
 file: /courses/4-175-case-studies-in-city-form-fall-2005/27abf008b429e5762ccb6e6a7c6b1393_civic_structure.pdf
 file_size: 186975
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
