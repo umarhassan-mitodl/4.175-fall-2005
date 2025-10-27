@@ -5,8 +5,6 @@ description: This resource contains the project report on historical development
 file: /courses/4-175-case-studies-in-city-form-fall-2005/3d454445270e0ee731efa57fb5eba180_chapter1.pdf
 file_size: 2070496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resources contains the project report on urban development and
 file: /courses/4-175-case-studies-in-city-form-fall-2005/f5455a0983489456fc591b5f62f4156b_intro_history.pdf
 file_size: 1337657
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

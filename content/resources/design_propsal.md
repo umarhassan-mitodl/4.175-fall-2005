@@ -4,8 +4,6 @@ description: This resources contains the project report on design proposal in is
 file: /courses/4-175-case-studies-in-city-form-fall-2005/13a07ad63e8d4edce8bfa4f5e95cd364_design_propsal.pdf
 file_size: 1616652
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

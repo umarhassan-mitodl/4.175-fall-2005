@@ -5,8 +5,6 @@ description: This resources contains the project report on block and building ty
 file: /courses/4-175-case-studies-in-city-form-fall-2005/340260e888493017186e1dd9825b6041_chapter2.pdf
 file_size: 7919645
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
